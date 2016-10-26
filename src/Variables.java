@@ -2,6 +2,9 @@
 public class Variables {
 
 	public static void main(String[] args) {
+		//here's a comment
+		//here's another comment
+		
 		int a = 63;
 		int b = 45;
 		
